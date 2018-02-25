@@ -11,5 +11,5 @@ I wonder if this would speed up my android RSS readers
 ## TLS client certificate based https (reverse) proxy / jump host
 Why do we have such things only for SSH?
 
-## A universal ssh / ssl / pgp / x509 managment tool / wrapper
+## A universal ssh / ssl / pgp / x509 key management tool (wrapper script)
 RSA keys should be interoperable. Why do I need so many different ones? 
