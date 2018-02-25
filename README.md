@@ -1,8 +1,9 @@
-# My list of Programs that should exist
+# My list of programs that should exist
+
+It is an inverse awesome list. Please create pull request to remove items you find ;) I would be thankful
 
 Basically stuff I thought that they should be programmed, but nobody had the time for (maybe they were programmed and I did not have the time to find them).
 
-It is an inverse awesome list. Please create pull request to remove items you find ;) I would be thankful
 
 ## HTTP/2 Feedproxy with speculative push support
 I wonder if this would speed up my android RSS readers
