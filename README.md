@@ -15,3 +15,6 @@ Why do we have such things only for SSH?:  https://github.com/kennylevinsen/sshm
 
 ## A universal ssh / ssl / pgp / x509 key management tool (wrapper script)
 RSA keys should be interoperable. Why do I need so many different ones? : http://sysmic.org/dotclear/index.php?post/2010/03/24/Convert-keys-betweens-GnuPG,-OpenSsh-and-OpenSSL
+
+## Deeplink handling webextension and Windows
+Open URL with X based on pattern. Why does that not exist in a configurable way for Windows (both as a generic webextension and a default handler for windows, where I can specify my routes). This but with central configurability: https://android.jlelse.eu/deep-linking-in-android-46bc61bd9750
