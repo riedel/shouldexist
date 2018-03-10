@@ -18,3 +18,5 @@ RSA keys should be interoperable. Why do I need so many different ones? : http:/
 
 ## Deeplink handling webextension and Windows
 Open URL with X based on pattern. Why does that not exist in a configurable way for Windows (both as a generic webextension and a default handler for windows, where I can specify my routes). This but with central configurability: https://android.jlelse.eu/deep-linking-in-android-46bc61bd9750
+
+A fun way to do this would be to specify a local program laucher proxy providing a https://de.wikipedia.org/wiki/Proxy_Auto-Config
