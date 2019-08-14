@@ -15,3 +15,6 @@ Why do we have such things only for SSH?:  https://github.com/kennylevinsen/sshm
 
 ## A universal ssh / ssl / pgp / x509 key management tool (wrapper script)
 RSA keys should be interoperable. Why do I need so many different ones? : http://sysmic.org/dotclear/index.php?post/2010/03/24/Convert-keys-betweens-GnuPG,-OpenSsh-and-OpenSSL
+
+## A web or windows app that actually handles geo URIs
+geo is whitelisted by HTML as a standard URL scheme, but nothing exists that handles it on standard windows systems
