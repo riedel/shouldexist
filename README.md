@@ -15,7 +15,3 @@ Why do we have such things only for SSH?:  https://github.com/kennylevinsen/sshm
 
 ## A universal ssh / ssl / pgp / x509 key management tool (wrapper script)
 RSA keys should be interoperable. Why do I need so many different ones? : http://sysmic.org/dotclear/index.php?post/2010/03/24/Convert-keys-betweens-GnuPG,-OpenSsh-and-OpenSSL
-
-## Attach recently opened file in thunderbird (for Windows)
-Outlook at offers me quick choices from %appdata%\Microsoft\Office\Recent 
-An addon would be nice, however, may be the easier workaround:  one can add that folder to quick access (thunderbird will attach the file not the link). Still at least a click more...
